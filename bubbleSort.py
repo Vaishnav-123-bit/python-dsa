@@ -7,6 +7,7 @@ def bubbleSort(arr):
         return arr
 
 
+
 arr=[3,1,2,4,6,7]
 print(arr,"Before")
 print(bubbleSort(arr),"After")
