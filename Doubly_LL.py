@@ -4,6 +4,7 @@ class Node:
         self.prev = None
         self.data = data
 
+
 class DoublyLinkedList:
     def __init__(self):
         self.head = None
