@@ -4,6 +4,7 @@ class Node:
         self.prev = None
         self.data = data
 
+
 class createDoublyLL:
     def __init__(self):
         self.head = None
